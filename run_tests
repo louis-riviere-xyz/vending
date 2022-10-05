@@ -1,0 +1,3 @@
+clear
+python3 -m test.init_db
+python3 -m pytest -s
